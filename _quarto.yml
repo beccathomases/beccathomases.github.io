@@ -9,8 +9,6 @@ website:
     background: "#304c68"
     foreground: "#ffffff"
     left:
-      - href: index.qmd
-        text: Home
       - href: research.qmd
         text: Research
       - href: publications.qmd
