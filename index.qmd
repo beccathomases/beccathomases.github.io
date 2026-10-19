@@ -46,14 +46,3 @@ My research combines mathematical analysis and numerical simulation to explore h
 :::
 :::
 
-::: {.home-content}
-
-## Research, teaching, and collaboration
-
-My work spans complex fluid dynamics, computational mathematics, and mathematical approaches to understanding physical systems.
-
-I also enjoy working with students on open-ended computational problems and developing opportunities for undergraduates to experience mathematical research.
-
-[Research](research.qmd) · [Publications](publications.qmd) · [Students & Teaching](teaching.qmd) · [CAMP](camp.qmd)
-
-:::
