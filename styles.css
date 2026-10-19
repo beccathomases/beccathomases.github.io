@@ -1,0 +1,364 @@
+/* css styles */
+
+/* Homepage split hero */
+
+.hero-section {
+  display: grid;
+  grid-template-columns: 47% 53%;
+  align-items: stretch;
+  max-width: 1180px;
+  margin: 2.5rem auto 3rem;
+  background: #f8f7f3;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.hero-text {
+  padding: 3.5rem 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hero-text h1 {
+  color: #243e51;
+  font-size: clamp(2.3rem, 4vw, 3.6rem);
+  line-height: 1.1;
+  margin: 0.6rem 0 1rem;
+}
+
+.hero-text p {
+  color: #425a63;
+  line-height: 1.7;
+}
+
+.eyebrow {
+  color: #517781;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+}
+
+.hero-link {
+  display: inline-block;
+  margin-top: 1rem;
+  color: #286775;
+  font-weight: 600;
+}
+
+.hero-image {
+  min-height: 420px;
+}
+
+.hero-image p {
+  margin: 0;
+  height: 100%;
+}
+
+.hero-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.home-content {
+  max-width: 850px;
+  margin: 0 auto 4rem;
+  padding: 0 1.5rem;
+}
+
+@media (max-width: 760px) {
+  .hero-section {
+    grid-template-columns: 1fr;
+    margin: 1rem;
+  }
+
+  .hero-text {
+    padding: 2.5rem 1.5rem;
+  }
+
+  .hero-image {
+    min-height: 340px;
+  }
+}
+/* Hide the default page title on the homepage */
+body:has(.hero-section) #title-block-header {
+  display: none;
+}
+
+/* Four-image research mosaic on homepage */
+
+.hero-image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-rows: repeat(2, minmax(0, 1fr));
+  gap: 6px;
+  min-width: 0;
+  background: #ffffff;
+}
+
+.hero-image-grid > p {
+  margin: 0;
+  min-width: 0;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.hero-image-grid img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Keep the four tiles together on smaller screens */
+@media (max-width: 760px) {
+  .hero-image-grid {
+    aspect-ratio: 1 / 1;
+  }
+}
+
+
+/* Refine the four-image research mosaic */
+
+.hero-image-grid {
+  gap: 6px;
+  background: #e9e8e4;
+}
+
+.hero-image-grid > p {
+  background: #ffffff;
+}
+
+/* Show the complete sperm figure */
+.hero-image-grid > p:nth-child(3) img {
+  object-fit: contain;
+}
+
+/* Show the complete EVP comparison */
+.hero-image-grid > p:nth-child(2) img {
+  object-fit: contain;
+}
+
+/* Align the two halves of the homepage hero */
+
+.hero-section {
+  grid-template-columns: 47% 53%;
+  align-items: stretch;
+}
+
+.hero-image-grid {
+  height: 100%;
+  min-height: 0;
+  grid-template-rows: repeat(2, minmax(0, 1fr));
+}
+
+.hero-image-grid > p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-image-grid img {
+  max-height: 100%;
+}
+
+.intro-identity {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.profile-photo {
+  width: 112px;
+  height: 112px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: 50% 35%;
+  flex-shrink: 0;
+}
+
+.intro-name h1 {
+  font-size: clamp(2rem, 3vw, 3rem);
+  margin: 0 0 0.5rem;
+}
+
+@media (max-width: 760px) {
+  .profile-photo {
+    width: 90px;
+    height: 90px;
+  }
+}
+
+
+/* Research page */
+
+.research-feature {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  gap: 2.5rem;
+  align-items: center;
+  margin: 1.3rem 0 4rem;
+}
+
+.research-feature.reverse {
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
+}
+
+.research-feature.reverse .research-visual {
+  grid-column: 1;
+  grid-row: 1;
+}
+
+.research-feature.reverse .research-description {
+  grid-column: 2;
+  grid-row: 1;
+}
+
+.research-description {
+  line-height: 1.75;
+}
+
+.research-visual {
+  background: #f8f7f3;
+  border-radius: 10px;
+  padding: 0.8rem;
+  text-align: center;
+}
+
+.research-visual img {
+  display: block;
+  width: 100%;
+  max-height: 340px;
+  object-fit: contain;
+  border-radius: 5px;
+}
+
+.research-visual p {
+  margin: 0;
+}
+
+.research-visual em {
+  display: block;
+  margin-top: 0.7rem;
+  color: #637780;
+  font-size: 0.82rem;
+}
+
+@media (max-width: 760px) {
+  .research-feature,
+  .research-feature.reverse {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 3rem;
+  }
+
+  .research-visual {
+    width: 100%;
+  }
+}
+
+/* Publications page */
+
+body:has(a[href*="scholarworks.smith.edu"]) main h3 {
+  color: #557c87;
+  font-size: 1.1rem;
+  margin-top: 2rem;
+}
+
+body:has(a[href*="scholarworks.smith.edu"]) main p {
+  line-height: 1.65;
+}
+
+body:has(a[href*="scholarworks.smith.edu"]) main hr {
+  margin: 2.5rem 0;
+  border-color: #e4e7e7;
+}
+
+/* CAMP page */
+
+.camp-lead-photo {
+  margin: 2rem 0 3rem;
+}
+
+.camp-lead-photo img {
+  width: 100%;
+  max-height: 490px;
+  object-fit: cover;
+  border-radius: 10px;
+  display: block;
+}
+
+.camp-lead-photo p,
+.camp-history-photo p {
+  text-align: center;
+}
+
+.camp-lead-photo em,
+.camp-history-photo em {
+  color: #637780;
+  font-size: 0.85rem;
+}
+
+.camp-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  margin: 1.5rem 0 0.5rem;
+}
+
+.camp-gallery p {
+  margin: 0;
+  height: 210px;
+}
+
+.camp-gallery img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.camp-history-photo {
+  margin: 1.5rem auto 3rem;
+  max-width: 570px;
+}
+
+.camp-history-photo img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.camp-downloads {
+  background: #f8f7f3;
+  padding: 1.5rem 2rem;
+  border-radius: 10px;
+  margin: 1.5rem 0 2rem;
+}
+
+.camp-downloads h3 {
+  color: #243e51;
+  margin-top: 1.2rem;
+}
+
+@media (max-width: 760px) {
+  .camp-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .camp-gallery p {
+    height: auto;
+  }
+
+  .camp-gallery img {
+    height: auto;
+  }
+
+  .camp-downloads {
+    padding: 1rem 1.25rem;
+  }
+}

@@ -1,0 +1,115 @@
+
+---
+title: "Research"
+subtitle: "Complex fluids, fluid–structure interactions, and computational dynamics"
+toc: false
+---
+
+My research lies at the intersection of applied mathematics, fluid mechanics, and scientific computing. I use mathematical models, numerical simulation, and collaborations with experimentalists to investigate how fluids behave when their dynamics are shaped by elasticity, complex microstructure, and interactions with moving bodies.
+
+A recurring theme is the emergence of unexpected dynamics from relatively simple mathematical models: instabilities, coherent structures, periodic motion, and transitions to irregular behavior.
+
+## Complex fluids and nonlinear dynamics
+
+::: {.research-feature}
+
+::: {.research-description}
+
+Even in the absence of inertia, viscoelastic fluids can exhibit remarkably complicated dynamics. Elastic stresses interact with fluid motion, producing instabilities, coherent structures, and sustained time-dependent flow.
+
+I study these phenomena using numerical simulations and mathematical models, including the Oldroyd-B equations. Recent work explores periodic and more complicated dynamics in model flows, including Kolmogorov flow and the four-roll mill.
+
+A central question is how relatively simple constitutive models give rise to complex spatiotemporal behavior.
+
+:::
+
+::: {.research-visual}
+
+![](images/flow-structures-hero-clean.png){alt="Numerical visualization of evolving structures in viscoelastic flow"}
+
+*Structures in a viscoelastic flow simulation.*
+
+:::
+
+:::
+
+## Elastoviscoplastic fluids
+
+::: {.research-feature .reverse}
+
+::: {.research-description}
+
+Many materials combine elastic deformation, viscous flow, and yielding. Examples include gels, pastes, and suspensions, which can behave like solids under some conditions and flow like liquids under others.
+
+My research examines how plasticity changes the dynamics of viscoelastic flows, using mathematical models such as the Saramito elastoviscoplastic model.
+
+An especially interesting question is how yielding can both suppress and reorganize flow instabilities, leading to nontrivial transitions between distinct dynamical regimes.
+
+:::
+
+::: {.research-visual}
+
+![](images/evp.png){alt="Numerical simulations comparing flow structures at different yield stresses"}
+
+*Flow structures in elastoviscoplastic models.*
+
+:::
+
+:::
+
+## Swimming and fluid–structure interactions
+
+::: {.research-feature}
+
+::: {.research-description}
+
+How does the rheology of a surrounding fluid influence the motion of a swimmer?
+
+I study the interaction between deforming bodies and complex fluids, including sperm swimming in Newtonian and viscoelastic environments. This work connects mathematical modeling and computation with experimental observations of swimming kinematics.
+
+These problems reveal how the interplay between fluid stresses, flexible structures, and prescribed or internally generated motion influences locomotion.
+
+:::
+
+::: {.research-visual}
+
+![](images/sperm.png){alt="Experimental images of sperm flagellar shapes with tracked centerlines"}
+
+*Experimental sperm flagellar shapes and reconstructed centerlines.*
+
+:::
+
+:::
+
+## Learning to swim: reinforcement learning and cilia
+
+::: {.research-feature .reverse}
+
+::: {.research-description}
+
+A newer direction in my research uses reinforcement learning to explore locomotion strategies in viscous fluids.
+
+Beginning with simple bead-based models of cilia, we compare learned strokes with computationally determined optimal solutions. These small systems provide useful benchmarks for understanding how learning algorithms discover effective periodic motion.
+
+The longer-term goal is to extend these ideas to more flexible swimmers and investigate how geometry, hydrodynamic interactions, and fluid rheology shape optimal locomotion.
+
+:::
+
+::: {.research-visual}
+
+![](images/RL_2cilia.png){alt="Colored reconstructions of a two-link cilium stroke learned using reinforcement learning"}
+
+*Reconstructed strokes from a computational cilium model.*
+
+:::
+
+:::
+
+---
+
+## Research publications
+
+Selected publications and preprints associated with these topics are available on the [Publications](publications.qmd) page.
+
+<!-- Later: add links to research movies, code, collaborators,
+     and selected publications under the relevant themes. -->

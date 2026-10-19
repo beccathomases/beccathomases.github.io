@@ -1,0 +1,44 @@
+
+---
+title: "Mentoring & Teaching"
+subtitle: "Exploring mathematics through research, computation, and collaboration"
+toc: false
+---
+
+One of the things I enjoy most about being at Smith College is working with undergraduate students on mathematical questions. I particularly enjoy helping students make the transition from learning established mathematical methods to using those methods to investigate questions whose answers are not yet known.
+
+My research projects often involve mathematical modeling, numerical simulation, and scientific computing. Students bring different backgrounds and levels of experience, and learning new tools together is frequently part of the process.
+
+## Undergraduate Research
+
+There are several ways for Smith students to become involved in mathematical research.
+
+**MTH 301 — Research in Mathematics**
+
+MTH 301 provides opportunities to participate in faculty-supervised research projects during the academic year. Students work individually or in small groups, exploring mathematical questions and developing their approaches over the semester.
+
+**Summer research**
+
+Summer research provides an opportunity for sustained work on a mathematical problem, often in collaboration with other students and faculty. Projects may involve theoretical analysis, developing computational models, running simulations, or interpreting numerical results.
+
+**Independent study and special studies**
+
+For students with a particular mathematical interest, an independent study can provide a more individualized opportunity to explore a subject or research question in depth. The scope and preparation depend on the project.
+
+
+Students don't need to arrive with a fully formed research question; exploring possible questions is part of the process.
+
+Smith students interested in mathematical research are welcome to contact me at [bthomases@smith.edu](mailto:bthomases@smith.edu). My availability to supervise research projects varies throughout the academic year and from summer to summer.
+
+## Teaching
+
+I teach courses across the mathematics curriculum, including calculus, linear algebra, and applied mathematics. I especially enjoy helping students develop mathematical intuition through experimentation, computation, and discussion.
+
+One example is **MTH 261: Computational Linear Algebra**, a course I developed and first taught in Spring 2025. Students use MATLAB extensively to explore mathematical ideas through computational experiments, emphasizing the interplay between mathematical reasoning, numerical methods, and hands-on investigation.
+
+## CAMP
+
+I also created **MTH 263: Computational and Applied Mathematics Practicum (CAMP)**, an intensive January-term course introducing students to computational research through open-ended projects, collaborative exploration, and opportunities to communicate results. Its first offering as a Smith course is scheduled for Interterm 2027.
+
+[Learn more about CAMP](camp.qmd)
+

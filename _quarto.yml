@@ -1,0 +1,30 @@
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Becca Thomases"
+  navbar:
+    background: "#304c68"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Mentoring & Teaching
+      - href: camp.qmd
+        text: CAMP
+    right:
+      - icon: github
+        href: https://github.com/beccathomases
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

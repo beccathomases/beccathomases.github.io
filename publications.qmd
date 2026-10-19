@@ -1,0 +1,105 @@
+
+---
+title: "Publications"
+subtitle: "Selected papers in applied mathematics, fluid mechanics, and computational biology"
+toc: false
+---
+
+My research explores complex fluid dynamics, fluid–structure interactions, and the mathematical modeling of biological locomotion.
+
+A selection of publications is listed below, with links to journal articles or publicly available versions. For a complete
+publication history and additional professional information,
+see my [curriculum vitae](files/Thomases_CV.pdf).
+
+
+
+### 2026
+
+**Corkscrew Motion of *Trypanosoma brucei* Is Driven by Helical Beating of the Flagellum and Facilitated by Its Bent Shape**
+
+S. Cheng, D. Das, M. Barchuk, R. Armstrong, M. M. Klingbeil, **B. Thomases**, and S. Zhou.
+
+*Proceedings of the National Academy of Sciences*, 123(27), e2536746123 (2026).
+
+[Journal article](https://doi.org/10.1073/pnas.2536746123)
+
+**Emergence of Purely Elastoplastic Turbulence in Shear Flows**
+
+M. Abdullah, S. Pradeep, D. J. Jerolmack, **B. Thomases**, and P. E. Arratia.
+
+*Physical Review Letters*, 137, 144002 (2026).
+
+[Journal article](https://doi.org/10.1103/cw8c-b1py)
+
+### 2025
+
+**Quantification of Changes with Combined Shape Mode Analysis and Swimming Simulations**
+
+K. E. Gutierrez, **B. Thomases**, P. E. Arratia, and R. D. Guy.
+
+*Philosophical Transactions of the Royal Society A* (2025).
+
+[Article and open-access version](https://scholarworks.smith.edu/mth_facpubs/197/)
+
+### 2024
+
+**Effect of Fluid Elasticity on the Emergence of Oscillations in an Active Elastic Filament**
+
+K. G. Link, R. D. Guy, **B. Thomases**, and P. E. Arratia.
+
+*Journal of the Royal Society Interface*, 21, 20240046 (2024).
+
+[Journal article](https://doi.org/10.1098/rsif.2024.0046)
+
+## Earlier work
+
+### Complex fluid dynamics
+
+**A Mathematician's Perspective on the Oldroyd-B Model: Progress and Future Challenges**
+
+**B. Thomases** and M. Renardy.
+
+*Journal of Non-Newtonian Fluid Mechanics*, 293, 104573 (2021).
+
+**Three-Dimensional Viscoelastic Instabilities in a Four-Roll Mill Geometry at the Stokes Limit**
+
+P. Gutierrez-Castillo, A. Kagel, and **B. Thomases**.
+
+*Physics of Fluids*, 32, 023102 (2020).
+
+**Polymer Stress Growth in Viscoelastic Fluids in Oscillating Extensional Flows with Applications to Micro-Organism Locomotion**
+
+**B. Thomases** and R. D. Guy.
+
+*Journal of Non-Newtonian Fluid Mechanics*, 269, 47–56 (2019).
+
+
+### Swimming and numerical methods
+
+**Flagellar Swimming in Viscoelastic Fluids: Role of Fluid Elastic Stress Revealed by Simulations Based on Experimental Data**
+
+C. Li, B. Qin, A. Gopinath, P. E. Arratia, **B. Thomases**, and R. D. Guy.
+
+(2017).
+
+
+**Convergent Solutions of Stokes Oldroyd-B Boundary Value Problems Using the Immersed Boundary Smooth Extension (IBSE) Method**
+
+D. B. Stein, R. D. Guy, and **B. Thomases**.
+
+*Journal of Non-Newtonian Fluid Mechanics*, 268, 56–65 (2019).
+
+---
+
+
+## More publications
+
+For a more complete publication history, see:
+
+- [Google Scholar](https://scholar.google.com/citations?user=sjJDTBUAAAAJ)
+- [Smith College ScholarWorks](https://scholarworks.smith.edu/mth_facpubs/)
+- [ORCID](https://orcid.org/0000-0001-8502-8915)
+
+
+<!-- Later: add links to a complete publication list,
+     Google Scholar, and additional selected articles. -->

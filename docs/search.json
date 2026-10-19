@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#research-teaching-and-collaboration",
+    "href": "index.html#research-teaching-and-collaboration",
+    "title": "Home",
+    "section": "Research, teaching, and collaboration",
+    "text": "Research, teaching, and collaboration\nMy work spans complex fluid dynamics, computational mathematics, and mathematical approaches to understanding physical systems.\nI also enjoy working with students on open-ended computational problems and developing opportunities for undergraduates to experience mathematical research.\nResearch · Publications · Students & Teaching · CAMP"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Mentoring & Teaching",
+    "section": "",
+    "text": "One of the things I enjoy most about being at Smith College is working with undergraduate students on mathematical questions. I particularly enjoy helping students make the transition from learning established mathematical methods to using those methods to investigate questions whose answers are not yet known.\nMy research projects often involve mathematical modeling, numerical simulation, and scientific computing. Students bring different backgrounds and levels of experience, and learning new tools together is frequently part of the process."
+  },
+  {
+    "objectID": "teaching.html#undergraduate-research",
+    "href": "teaching.html#undergraduate-research",
+    "title": "Mentoring & Teaching",
+    "section": "Undergraduate Research",
+    "text": "Undergraduate Research\nThere are several ways for Smith students to become involved in mathematical research.\nMTH 301 — Research in Mathematics\nMTH 301 provides opportunities to participate in faculty-supervised research projects during the academic year. Students work individually or in small groups, exploring mathematical questions and developing their approaches over the semester.\nSummer research\nSummer research provides an opportunity for sustained work on a mathematical problem, often in collaboration with other students and faculty. Projects may involve theoretical analysis, developing computational models, running simulations, or interpreting numerical results.\nIndependent study and special studies\nFor students with a particular mathematical interest, an independent study can provide a more individualized opportunity to explore a subject or research question in depth. The scope and preparation depend on the project.\nStudents don’t need to arrive with a fully formed research question; exploring possible questions is part of the process.\nSmith students interested in mathematical research are welcome to contact me at bthomases@smith.edu. My availability to supervise research projects varies throughout the academic year and from summer to summer."
+  },
+  {
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "Mentoring & Teaching",
+    "section": "Teaching",
+    "text": "Teaching\nI teach courses across the mathematics curriculum, including calculus, linear algebra, and applied mathematics. I especially enjoy helping students develop mathematical intuition through experimentation, computation, and discussion.\nOne example is MTH 261: Computational Linear Algebra, a course I developed and first taught in Spring 2025. Students use MATLAB extensively to explore mathematical ideas through computational experiments, emphasizing the interplay between mathematical reasoning, numerical methods, and hands-on investigation."
+  },
+  {
+    "objectID": "teaching.html#camp",
+    "href": "teaching.html#camp",
+    "title": "Mentoring & Teaching",
+    "section": "CAMP",
+    "text": "CAMP\nI also created MTH 263: Computational and Applied Mathematics Practicum (CAMP), an intensive January-term course introducing students to computational research through open-ended projects, collaborative exploration, and opportunities to communicate results. Its first offering as a Smith course is scheduled for Interterm 2027.\nLearn more about CAMP"
+  },
+  {
+    "objectID": "camp.html",
+    "href": "camp.html",
+    "title": "CAMP",
+    "section": "",
+    "text": "CAMP is an intensive introduction to research in computational and applied mathematics at Smith College. The program gives undergraduate students an opportunity to explore mathematical research, develop computational skills, and experience what it means to work on an open-ended problem.\nNo prior research experience is required. Students learn by doing: experimenting with computational methods, developing questions, discussing ideas, and communicating their progress."
+  },
+  {
+    "objectID": "camp.html#learning-how-to-do-research",
+    "href": "camp.html#learning-how-to-do-research",
+    "title": "CAMP",
+    "section": "Learning how to do research",
+    "text": "Learning how to do research\nCAMP combines short lessons in computational mathematics with substantial time for independent exploration. Students learn to use tools such as MATLAB while developing the less formal skills that research requires: formulating questions, troubleshooting, documenting progress, working collaboratively, and communicating results.\nRather than aiming for a polished research result in two weeks, the program emphasizes learning how to begin and sustain a research investigation.\n\n\n\n\n\nPresentations, collaborative computing, and hands-on exploration during CAMP 2026."
+  },
+  {
+    "objectID": "camp.html#from-pilot-program-to-smith-course",
+    "href": "camp.html#from-pilot-program-to-smith-course",
+    "title": "CAMP",
+    "section": "From pilot program to Smith course",
+    "text": "From pilot program to Smith course\nCAMP began as a pilot program in May 2025 with five students. A second offering in January 2026 expanded to fifteen students.\nBuilding on these experiences, CAMP has been approved as MTH 263, a two-credit Smith College January-term course, beginning in January 2027.\nThe course offers students a structured but exploratory introduction to computational research, with opportunities to pursue questions suited to their interests and preparation.\nThe CAMP pilots and the development of the teaching resources were supported by the Richard Lounsbery Foundation.\n\n\nThe inaugural CAMP cohort, May 2025."
+  },
+  {
+    "objectID": "camp.html#resources-for-instructors",
+    "href": "camp.html#resources-for-instructors",
+    "title": "CAMP",
+    "section": "Resources for instructors",
+    "text": "Resources for instructors\nCAMP was designed to be adaptable. Instructors interested in offering a similar program can use the practical replication guide and companion teaching materials.\nThe materials include sample schedules and syllabi, MATLAB activities, project-scoping exercises, student reflection templates, presentation prompts, and assessment resources.\n\n\nPractical Replication Guide\nA short guide to organizing a CAMP-style program, including its structure, daily routines, and practical advice.\nDownload the replication guide (PDF)\n\n\nTeaching Resource Package\nEditable teaching materials, computational exercises, templates, and sample datasets.\nDownload the teaching resources (ZIP)\n\n\nThese materials are provided for adaptation to other instructional settings. Some were used during the 2025–2026 pilots; others were developed for subsequent offerings.\n\nDeveloped at Smith College with support from the Richard Lounsbery Foundation."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research lies at the intersection of applied mathematics, fluid mechanics, and scientific computing. I use mathematical models, numerical simulation, and collaborations with experimentalists to investigate how fluids behave when their dynamics are shaped by elasticity, complex microstructure, and interactions with moving bodies.\nA recurring theme is the emergence of unexpected dynamics from relatively simple mathematical models: instabilities, coherent structures, periodic motion, and transitions to irregular behavior."
+  },
+  {
+    "objectID": "research.html#complex-fluids-and-nonlinear-dynamics",
+    "href": "research.html#complex-fluids-and-nonlinear-dynamics",
+    "title": "Research",
+    "section": "Complex fluids and nonlinear dynamics",
+    "text": "Complex fluids and nonlinear dynamics\n\n\nEven in the absence of inertia, viscoelastic fluids can exhibit remarkably complicated dynamics. Elastic stresses interact with fluid motion, producing instabilities, coherent structures, and sustained time-dependent flow.\nI study these phenomena using numerical simulations and mathematical models, including the Oldroyd-B equations. Recent work explores periodic and more complicated dynamics in model flows, including Kolmogorov flow and the four-roll mill.\nA central question is how relatively simple constitutive models give rise to complex spatiotemporal behavior.\n\n\n\nStructures in a viscoelastic flow simulation."
+  },
+  {
+    "objectID": "research.html#elastoviscoplastic-fluids",
+    "href": "research.html#elastoviscoplastic-fluids",
+    "title": "Research",
+    "section": "Elastoviscoplastic fluids",
+    "text": "Elastoviscoplastic fluids\n\n\nMany materials combine elastic deformation, viscous flow, and yielding. Examples include gels, pastes, and suspensions, which can behave like solids under some conditions and flow like liquids under others.\nMy research examines how plasticity changes the dynamics of viscoelastic flows, using mathematical models such as the Saramito elastoviscoplastic model.\nAn especially interesting question is how yielding can both suppress and reorganize flow instabilities, leading to nontrivial transitions between distinct dynamical regimes.\n\n\n\nFlow structures in elastoviscoplastic models."
+  },
+  {
+    "objectID": "research.html#swimming-and-fluidstructure-interactions",
+    "href": "research.html#swimming-and-fluidstructure-interactions",
+    "title": "Research",
+    "section": "Swimming and fluid–structure interactions",
+    "text": "Swimming and fluid–structure interactions\n\n\nHow does the rheology of a surrounding fluid influence the motion of a swimmer?\nI study the interaction between deforming bodies and complex fluids, including sperm swimming in Newtonian and viscoelastic environments. This work connects mathematical modeling and computation with experimental observations of swimming kinematics.\nThese problems reveal how the interplay between fluid stresses, flexible structures, and prescribed or internally generated motion influences locomotion.\n\n\n\nExperimental sperm flagellar shapes and reconstructed centerlines."
+  },
+  {
+    "objectID": "research.html#learning-to-swim-reinforcement-learning-and-cilia",
+    "href": "research.html#learning-to-swim-reinforcement-learning-and-cilia",
+    "title": "Research",
+    "section": "Learning to swim: reinforcement learning and cilia",
+    "text": "Learning to swim: reinforcement learning and cilia\n\n\nA newer direction in my research uses reinforcement learning to explore locomotion strategies in viscous fluids.\nBeginning with simple bead-based models of cilia, we compare learned strokes with computationally determined optimal solutions. These small systems provide useful benchmarks for understanding how learning algorithms discover effective periodic motion.\nThe longer-term goal is to extend these ideas to more flexible swimmers and investigate how geometry, hydrodynamic interactions, and fluid rheology shape optimal locomotion.\n\n\n\nReconstructed strokes from a computational cilium model."
+  },
+  {
+    "objectID": "research.html#research-publications",
+    "href": "research.html#research-publications",
+    "title": "Research",
+    "section": "Research publications",
+    "text": "Research publications\nSelected publications and preprints associated with these topics are available on the Publications page."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My research explores complex fluid dynamics, fluid–structure interactions, and the mathematical modeling of biological locomotion.\nA selection of publications is listed below, with links to journal articles or publicly available versions. For a complete publication history and additional professional information, see my curriculum vitae."
+  },
+  {
+    "objectID": "publications.html#earlier-work",
+    "href": "publications.html#earlier-work",
+    "title": "Publications",
+    "section": "Earlier work",
+    "text": "Earlier work\n\nComplex fluid dynamics\nA Mathematician’s Perspective on the Oldroyd-B Model: Progress and Future Challenges\nB. Thomases and M. Renardy.\nJournal of Non-Newtonian Fluid Mechanics, 293, 104573 (2021).\nThree-Dimensional Viscoelastic Instabilities in a Four-Roll Mill Geometry at the Stokes Limit\nP. Gutierrez-Castillo, A. Kagel, and B. Thomases.\nPhysics of Fluids, 32, 023102 (2020).\nPolymer Stress Growth in Viscoelastic Fluids in Oscillating Extensional Flows with Applications to Micro-Organism Locomotion\nB. Thomases and R. D. Guy.\nJournal of Non-Newtonian Fluid Mechanics, 269, 47–56 (2019).\n\n\nSwimming and numerical methods\nFlagellar Swimming in Viscoelastic Fluids: Role of Fluid Elastic Stress Revealed by Simulations Based on Experimental Data\nC. Li, B. Qin, A. Gopinath, P. E. Arratia, B. Thomases, and R. D. Guy.\n(2017).\nConvergent Solutions of Stokes Oldroyd-B Boundary Value Problems Using the Immersed Boundary Smooth Extension (IBSE) Method\nD. B. Stein, R. D. Guy, and B. Thomases.\nJournal of Non-Newtonian Fluid Mechanics, 268, 56–65 (2019)."
+  },
+  {
+    "objectID": "publications.html#more-publications",
+    "href": "publications.html#more-publications",
+    "title": "Publications",
+    "section": "More publications",
+    "text": "More publications\nFor a more complete publication history, see:\n\nGoogle Scholar\nSmith College ScholarWorks\nORCID"
+  }
+]
